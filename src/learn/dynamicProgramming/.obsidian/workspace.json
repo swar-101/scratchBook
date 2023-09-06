@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "c4e1ccf3a0ccac13",
+    "type": "split",
+    "children": [
+      {
+        "id": "6469e31af22da0ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71f07b5fa66f9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f783de16ae516a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb45f2b7c425968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "594d919e8ff2611c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9136bfa441271563",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52bbf33f4487944d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdc7a305f1847eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae437a78449276cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e647bb8a5adefe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b8b3fa59fa0e5d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fb411d3736fd2bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "665a44e51ff538d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c71f07b5fa66f9a1",
+  "lastOpenFiles": [
+    "MinimumCoinChange.java~",
+    "MinimumCoinChange.java",
+    "staircase-problem-possible-paths-example.png",
+    "staircase-problem-dry-run.png",
+    "staircase-problem-state.png",
+    "staircase-problem-ith-state.png",
+    "staircase-problem-penultimate-states.png",
+    "staircase-problem.png",
+    "README.md",
+    "starcaiseProblem/README.md",
+    "staircase-problem-dry-run 1.png"
+  ]
+}
